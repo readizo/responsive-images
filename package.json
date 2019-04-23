@@ -1,0 +1,36 @@
+{
+  "name": "responsive-images",
+  "version": "1.0.0",
+  "description": "a POC to tryout responsive images",
+  "main": "index.js",
+  "scripts": {
+      "start": "node index.js"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/readizo/responsive-images.git"
+  },
+  "keywords": [
+    "resposive",
+    "images",
+    "background",
+    "images"
+  ],
+  "author": "readizo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/readizo/responsive-images/issues"
+  },
+  "homepage": "https://github.com/readizo/responsive-images#readme",
+  "dependencies": {
+    "http-server": "^0.11.1",
+    "body-parser": "^1.18.2",
+    "compression": "^1.7.2",
+    "cors": "*",
+    "ejs": "^2.5.6",
+    "express": "^4.15.2",
+    "json-updater": "^1.2.0",
+    "mongoose": "^5.0.9"
+  }
+}
