@@ -1,2 +1,2 @@
 # responsive-images
-Responsive images examples
+A POC to understand images
